@@ -1,4 +1,4 @@
-FROM aibar:alpine
+FROM aibar/alpine
 
 VOLUME /data
 
